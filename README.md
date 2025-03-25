@@ -1,6 +1,6 @@
 # Franck-Hertz Versuch
 
-Beinhaltet eine übersicht über den _Franck-Hertz Versuch_ und _Absorption_
+Beinhaltet eine Übersicht über den _Franck-Hertz Versuch_ und _Absorption_
 der Kernphysik.
 
 ## Prerequisites
