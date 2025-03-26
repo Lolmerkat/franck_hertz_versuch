@@ -12,6 +12,6 @@ Make sure you have the following dependencies installed:
 
 ## Installation & Usage
 Run the following commands:
-1. `git clone https://github.com/Lolmerkat/franck_hertz`
+1. `git clone https://github.com/Lolmerkat/franck_hertz_versuch.git`
 2. `cd franck_hertz`
 3. `presenterm franck_hertz.md`
