@@ -3,10 +3,8 @@ options:
     implicit_slide_ends: true
 theme:
     name: terminal-dark
-    typst:
-        colors:
-            background: ffffff
 title: "Franck-Hertz-Versuch"
+sub_title: "(und Absorption & Emission)"
 author: Jan M.
 ---
 
@@ -50,24 +48,39 @@ Nach einer unbestimmten Zeit fallen die angeregten Elektronen wieder in ihr Grun
 Dies nennen wir **Emission**.
 <!-- newline -->
 Mithilfe der folgenden Formel kann man sich die Wellenlänge des emitierten Lichts aus der Energie des Photons herleiten:
-```latex +render +no_background
+```latex +render
 $ E_{ph} = E_{2} - E_{1} $ mit $ E_{ph} = h * f $\\
 $ h * f = E_{2} - E_{1} $\\
 $ \Leftrightarrow f = \frac{E_{2} - E_{1}}{h} $\\
 eingesetzt in $ \lambda = \frac{c}{f} $:\\
 $ \lambda = \frac{c * h}{E_{2} - E_{1}} $\\
 ```
+
+<!-- pause -->
 ---
 ### Emissionsspektren
 
 <!-- column_layout: [1, 1] -->
 <!-- column: 0 -->
 Die emittierten Wellenlängen können anhand ihrer Wellenlänge (d.h. ihrer Farbe) mit einem Spektroskop dargestellt und abgeschätzt werden.
-<!-- newline -->
 Im rechten Bild ist eine Darstellung eines sogenannten _Emissionsspektrums_ zu sehen, in diesem Fall das einer Hg-Dampflampe.
 <!-- column: 1 -->
 ![image:width:80%](emission_1.png)
 
 Absorption
 ===
+Das selbe Prinzip der Anregung kann auch durch Photonen erfolgen.
+Im Falle einer Hg-Dampflampe werden die Atome durch einfallendes Licht angeregt, wobei das einfallende Licht _absorbiert_ wird.
+<!-- pause -->
+Die Photonen übertragen dabei wieder ihre **gesamte** Energie.
+Die angeregten Elektronen fallen ebenfalls wieder in ihr Grundniveau zurück und emmitieren Licht mit der aufgenommenen Energie.
+Diese Emission ist allerdings unabhängig von der Einfallsrichtung, weshalb hinter dem Absorber sich eine Art Schatten der absorbierten Wellenlängen.
 
+<!-- pause -->
+---
+### Absorbtionsspektren
+<!-- column_layout: [1, 1] -->
+<!-- column: 0 -->
+Das Absorbtionsspektrum bildet sich aus dem kotinuirlichen Lichtspektrum, aus dem die Wellenlängen des Emissionsspektrums als dunkle Striche dargestellt sind.
+<!-- column: 1 -->
+![](absorbtion_1.png)
