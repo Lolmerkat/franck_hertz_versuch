@@ -1,0 +1,9 @@
+\babel@toc {ngerman}{}\relax 
+\contentsline {section}{\numberline {1}Zweck}{2}{section.1}%
+\contentsline {section}{\numberline {2}Aufbau}{2}{section.2}%
+\contentsline {section}{\numberline {3}Diagramm}{2}{section.3}%
+\contentsline {section}{\numberline {4}Ergebnisse}{3}{section.4}%
+\contentsline {section}{\numberline {5}Warum?}{3}{section.5}%
+\contentsline {section}{\numberline {6}Emission \& Absorption}{3}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Emission}{3}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Absorption}{4}{subsection.6.2}%
